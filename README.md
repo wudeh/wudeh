@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+WeChat: wu18250517110
+
 掘金：https://juejin.cn/user/844063867415080
 
 博客：https://wudeh.github.io
