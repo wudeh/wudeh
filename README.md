@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.me/badge?page_id=pheromone)
+I am wudeh who is a developer from China. ![](https://visitor-badge.glitch.me/badge?page_id=wudeh)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
