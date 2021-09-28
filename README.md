@@ -20,11 +20,11 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
   <tr>
     <td>
       
-![my github stats](https://github-readme-stats.vercel.app/api?username=pheromone&show_icons=true&hide_border=true&hide=contribs,prs)
+![my github stats](https://github-readme-stats.vercel.app/api?username=wudeh&show_icons=true&hide_border=true&hide=contribs,prs)
     </td>
     <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheromone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wudeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
     </td>
     </tr> 
 
