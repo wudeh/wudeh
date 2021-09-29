@@ -20,7 +20,7 @@ I am wudeh who is a developer from China. ![](https://visitor-badge.glitch.me/ba
   <tr>
     <td>
       
-![wudeh's github stats](https://github-readme-stats.vercel.app/api?username=wudeh&show_icons=true&theme=dracula)
+![wudeh's github stats](https://github-readme-stats.vercel.app/api?username=wudeh&show_icons=true)
     </td>
     <td>
       
